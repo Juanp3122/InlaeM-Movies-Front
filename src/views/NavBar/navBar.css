@@ -1,0 +1,21 @@
+.rectangle1 {
+    width: 35px;
+    height: 4px;
+    align-self: center;
+}
+.rectangle2 {
+    width: 35px;
+    height: 4px;
+    align-self: center;
+}
+.sun-img {
+    width: 23px;
+    height: 23px;
+    align-self: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.logoContainer {
+    display: flex;
+}

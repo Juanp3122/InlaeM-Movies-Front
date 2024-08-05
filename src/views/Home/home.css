@@ -1,0 +1,64 @@
+.title {
+
+    font-family: IBM Plex Sans;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: left;
+
+}
+
+.sub-title {
+
+    font-family: IBM Plex Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.sumary-card {
+    width: 200px;
+    height: Fixed (335px)px;
+    top: 574px;
+    left: 284px;
+    gap: 12px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #262626;
+
+}
+
+.summary-card-img {
+    width: 200px;
+    height: 223px;
+    gap: 0px;
+    border-radius: 8px 8px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 1px 8px 0px #00000014;
+
+    box-shadow: 0px 0px 10px 0px #00000014;
+
+}
+
+.summary-card-title {
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    
+}
+
+.summary-card-date {
+
+    font-family: Inter;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 10px;
+    text-align: left;
+    color: #fff;
+
+}
